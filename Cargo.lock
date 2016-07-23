@@ -1,0 +1,12 @@
+[root]
+name = "threadpool_leak"
+version = "0.1.0"
+dependencies = [
+ "threadpool 1.3.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "threadpool"
+version = "1.3.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+

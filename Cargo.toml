@@ -1,0 +1,7 @@
+[package]
+name = "threadpool_leak"
+version = "0.1.0"
+authors = ["Tim Glabisch <tim.glabisch@sensiolabs.de>"]
+
+[dependencies]
+threadpool = "*"
